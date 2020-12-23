@@ -14,7 +14,7 @@ nav {
   left: 0;
   bottom: 0;
   width: 300px;
-  background: #F1FAF5;
+  background: linear-gradient(0deg, rgba(250,243,232,0), rgba(250,243,232,255));
 }
 
 button {
